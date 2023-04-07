@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><svg width="343px" height="343px" viewBox="0 0 343 343" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>redefine-favicon-2</title><defs><path d="M173.008798,0 C243.696387,0 301,58.2029825 301,130 C301,201.797017 243.696387,260 173.008798,260 L173.008,177.513 L173.348389,177.510815 C199.069478,177.087242 219.791789,155.777442 219.791789,129.551724 C219.791789,103.210683 198.886831,81.8288874 173.008786,81.5882581 L0,81.5862069 L0,0 Z" id="path-1"></path></defs><g id="logo-MIT-favicon-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Logo" transform="translate(19.000000, 19.000000)"><polygon id="左下角" fill="#A31F34" points="-1.50695428e-14 186 119 304 0 304"></polygon><polygon id="梯形" fill="#C9C8C7" points="-1.39749323e-14 4.08700851e-15 304 304 194.542274 304 -1.39749323e-14 110.334744"></polygon><mask id="mask-2" fill="white"><use xlink:href="#path-1"></use></mask><use id="Combined-Shape" fill="#C9C8C7" xlink:href="#path-1"></use><polygon id="阴影" fill="#8A8B8C" mask="url(#mask-2)" points="0 0 111.230321 4.08700851e-15 304 189.020851 304 304"></polygon></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-cn" viewBox="0 0 640 480">
+  <defs>
+    <path id="a" fill="#ff0" d="M-.6.8 0-1 .6.8-1-.3h2z"/>
+  </defs>
+  <path fill="#ee1c25" d="M0 0h640v480H0z"/>
+  <use xlink:href="#a" width="30" height="20" transform="matrix(71.9991 0 0 72 120 120)"/>
+  <use xlink:href="#a" width="30" height="20" transform="matrix(-12.33562 -20.5871 20.58684 -12.33577 240.3 48)"/>
+  <use xlink:href="#a" width="30" height="20" transform="matrix(-3.38573 -23.75998 23.75968 -3.38578 288 95.8)"/>
+  <use xlink:href="#a" width="30" height="20" transform="matrix(6.5991 -23.0749 23.0746 6.59919 288 168)"/>
+  <use xlink:href="#a" width="30" height="20" transform="matrix(14.9991 -18.73557 18.73533 14.99929 240 216)"/>
+</svg>
